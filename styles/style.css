@@ -6,7 +6,6 @@
   line-height: var(--line-height);
   background-attachment: fixed;
 }
-
 .header {
   background-image: var(--bg-image);
   background-repeat: no-repeat;
